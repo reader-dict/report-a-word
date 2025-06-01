@@ -6,6 +6,6 @@ Please submit problematic words for the team to look at here. We'd like to use t
 
 Issues are also automatically created when using the "Quick Feedback" feature from the website, no need to have a GitHub account for that.
 
-Remember to be kind to everyone here - we all love those dictionaries, and we're all trying to make it the best possible.
+Remember to be kind to everyone here - we all love those dictionaries, and we're all trying to make them the best possible.
 
 Thank you!
