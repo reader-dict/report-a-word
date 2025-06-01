@@ -1,4 +1,4 @@
-# Reader Dict Issue Tracker
+# 🐛 Reader Dict Issue Tracker
 
 Public bug tracker for [Reader Dict](https://www.reader-dict.com) dictionaries.
 
